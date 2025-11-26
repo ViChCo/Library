@@ -1,0 +1,28 @@
+Validate
+Kontrollerar att pom.xml är korrekt och att alla nödvändiga filer finns. den gör inga kompileringar eller tester.
+
+Compile
+Kompilerar källkoden (src/main/java) till .class-filer i target/classes.
+
+Test
+Kompilerar testkoden (src/test/java) och kör tester med t.ex. JUnit, sedan sparas reultatet i testrapporter target/surefire-reports.
+Innehåller vilka tester som lyckades/misslyckades, felmeddelanden och stacktraces
+
+Package
+Paketerar den kompilerade koden och resurser till en JAR/WAR/ZIP i target/.
+Kör även compile och test innan package.
+
+Ta bort klassfilerna
+Clean tar bort klassfiler.
+
+Clean
+Tar ochså bort target/ mappen där alla .class-filer och byggda artefakter ligger.
+
+Javadoc
+Genererar dokumentation från källkodens kommentarer.
+Kan skapas som HTML eller som en JAR med Javadoc.
+
+
+
+
+
