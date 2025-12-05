@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="models.BookTest" time="0.046" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="models.BookTest" time="0.007" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Users\saime\.jdks\openjdk-25.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\saime\AppData\Local\Temp\surefire9189798652589151845\surefirebooter-20251126213020555_3.jar C:\Users\saime\AppData\Local\Temp\surefire9189798652589151845 2025-11-26T21-30-20_267-jvmRun1 surefire-20251126213020555_1tmp surefire_0-20251126213020555_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\saime\AppData\Local\Temp\surefire4787179563526747653\surefirebooter-20251205230440964_3.jar C:\Users\saime\AppData\Local\Temp\surefire4787179563526747653 2025-12-05T23-04-40_814-jvmRun1 surefire-20251205230440964_1tmp surefire_0-20251205230440964_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\test-classes;C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\classes;C:\Users\saime\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\saime\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\saime\.m2\repository\org\junit\jupiter\junit-jupiter\5.14.0\junit-jupiter-5.14.0.jar;C:\Users\saime\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.14.0\junit-jupiter-api-5.14.0.jar;C:\Users\saime\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\saime\.m2\repository\org\junit\platform\junit-platform-commons\1.14.0\junit-platform-commons-1.14.0.jar;C:\Users\saime\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\saime\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.14.0\junit-jupiter-params-5.14.0.jar;C:\Users\saime\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.14.0\junit-jupiter-engine-5.14.0.jar;C:\Users\saime\.m2\repository\org\junit\platform\junit-platform-engine\1.14.0\junit-platform-engine-1.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\saime\AppData\Local\Temp\surefire9189798652589151845\surefirebooter-20251126213020555_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\saime\AppData\Local\Temp\surefire4787179563526747653\surefirebooter-20251205230440964_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.1+8-27"/>
@@ -56,7 +56,7 @@
     <property name="user.language.format" value="sv"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\saime\.jdks\openjdk-25.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Gradle\gradle-9.2.1\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\saime\AppData\Local\Microsoft\WindowsApps;C:\Users\saime\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.library.path" value="C:\Users\saime\.jdks\openjdk-25.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Gradle\gradle-9.2.1\bin;C:\Program Files\Docker\Docker\resources\bin;C:\apache-maven-3.9.11\bin;C:\Users\saime\AppData\Local\Microsoft\WindowsApps;C:\Users\saime\AppData\Local\Programs\Microsoft VS Code\bin;C:\apache-maven-3.9.11\bin;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -66,6 +66,6 @@
     <property name="maven.repo.local" value="C:\Users\saime\.m2\repository"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="test2NonEqualBooks" classname="models.BookTest" time="0.015"/>
-  <testcase name="test2EqualBooks" classname="models.BookTest" time="0.018"/>
+  <testcase name="test2NonEqualBooks" classname="models.BookTest" time="0.003"/>
+  <testcase name="test2EqualBooks" classname="models.BookTest" time="0.002"/>
 </testsuite>

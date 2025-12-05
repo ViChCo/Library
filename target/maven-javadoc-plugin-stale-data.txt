@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/saime/OneDrive/Dokument/YRGO/Utveklingsverktyg/inlämningar/inl2/Libraryyy/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/saime/OneDrive/Dokument/YRGO/Utveklingsverktyg/inlämningar/inl2/Libraryyy/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Libraryyy 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Libraryyy 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\src\main\java = 1764180613338
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\allclasses-index.html = 1764972046356
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\allpackages-index.html = 1764972046360
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\copy.svg = 1764972046413
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\element-list = 1764972046186
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\help-doc.html = 1764972046405
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\index-all.html = 1764972046392
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\index.html = 1764972046328
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\link.svg = 1764972046416
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\member-search-index.js = 1764972046368
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\module-search-index.js = 1764972046363
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\overview-summary.html = 1764972046399
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\overview-tree.html = 1764972046322
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\package-search-index.js = 1764972046365
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\script.js = 1764972046411
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\search-page.js = 1764972046424
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\search.html = 1764972046396
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\search.js = 1764972046421
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\serialized-form.html = 1764972046240
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\stylesheet.css = 1764972046408
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\tag-search-index.js = 1764972046370
+C:\Users\saime\OneDrive\Dokument\YRGO\Utveklingsverktyg\inlämningar\inl2\Libraryyy\target\site\apidocs\type-search-index.js = 1764972046367

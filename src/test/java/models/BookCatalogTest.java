@@ -33,13 +33,13 @@ public class BookCatalogTest {
 
     //G
     @Test
-    public void testFindBook() {
-        try {
-            Book b = bc.findBook("Learning Java");
-        } catch (BookNotFoundException e) {
-            fail("Book should have been found");
-        }
+    public void testFindBook() throws BookNotFoundException {
+        Book b = bc.findBook("Learning Java");
+
+        assertNotNull(b, "Book should not be null");
+        assertEquals("Learning Java", b.getTitle(), "Wrong book returned");
     }
+
 
     //G
     @Test
